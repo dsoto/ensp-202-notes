@@ -3,7 +3,8 @@
 This course deals with the application of mathematics to imprecise,
 real-world applications.
 
-What does it mean to think mathematically?
+What does it mean to think mathematically?  How is applied mathematics
+different from mathematics as you understand it?
 
 What questions are you curious about that will require quantitative
 thinking to answer.
