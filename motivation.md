@@ -1,24 +1,41 @@
 # Motivation
 
 This course deals with the application of mathematics to imprecise,
-real-world applications.
+real-world applications.  In order to move from prescribed textbook
+problems to more open-ended ones, we need to develop some further
+skills.
 
-What does it mean to think mathematically?  How is applied mathematics
+For example, what does it mean to think mathematically?  How is applied
+mathematics -- using math to tackle problems --
 different from mathematics as you understand it?
 
-What questions are you curious about that will require quantitative
-thinking to answer.
+## Why are you in college?
 
-Mathematics sharpens your common sense.
+- What is important about your degree?
+- Is the diploma important?
+- Is your choice of major important?
+- Are the abilities you will develop important?
 
-Many critical questions about the environment, government, and social
+## Why are you in college?
+
+- One popular reason is to have better employment
+- To get better employment one needs better skills
+- Applied mathematics skills are valuable for many jobs and problems
+
+## Why is math important to you?
+
+- Do you see yourself using math in the future?
+- What kinds of math do you think are most important?
+
+## The power of mathematics
+
+- Mathematics sharpens your common sense.
+- Many critical questions about the environment, government, and social
 justice are essentially mathematics questions.
-
-We will demonstrate the power of basic mathematical concepts to gain
+- We will demonstrate the power of basic mathematical concepts to gain
 insight into these sorts of problems.
 
-We will learn how to create simple models that enable us to gain insight
-into the problem we are investigating.
+## The power of mathematics
 
 Mathematics allows you to see the similar structure in many different
 situations.  It is similar to the way a knowledge of music allows you to
@@ -26,7 +43,27 @@ see the
 [similarity between many popular
 songs.](https://www.youtube.com/watch?v=QpB_40hYjXU)
 
-# Important Aspects of this course
+## Your attitude toward mathematics
+
+Much of your success will depend on your beliefs about your ability to
+learn and improve through effort.
+
+## Do you believe you are a "math person"
+
+- Are you comfortable with mathematics?
+- Do you think your abilities can improve with effort and practice?
+- When you make important financial decisions, will you try to
+    understand the details?
+
+## Grit, Mindset, Effort
+
+- This will not always be easy or pleasurable
+- You should be prepared to fail
+- Some of your efforts should look like [this](https://t.co/gpISMANVMz)
+- I frequently struggle to learn new branches of mathematics
+
+
+# Course Content
 
 ## Learning objectives
 
@@ -36,7 +73,11 @@ songs.](https://www.youtube.com/watch?v=QpB_40hYjXU)
 
 ## Models
 
+We will learn how to create simple models that enable us to gain insight
+into the problem we are investigating.
+
 - A simplified representation of a problem we'd like to solve
+- A model is an approximation that allows us to think about the world
 - Models:
     - rectangle
     - linear increase or decrease
@@ -45,10 +86,6 @@ songs.](https://www.youtube.com/watch?v=QpB_40hYjXU)
     - a bathtub with a faucet and a drain
 - The situation you are modeling won't always look exactly like the
     model
-
-## Model Thinking
-
-- A model is an approximation that allows us to think about the world
 - All models are wrong, some are useful
 - Can you think of an example of a model?
 
@@ -80,25 +117,6 @@ estimations and mathematical arguments.
 - You have been asked to perform computations
 - Your are given a mathematical expression and asked to compute it
 - We will practice coming up with the correct expression to compute
-
-# Your attitude toward mathematics
-
-Much of your success will depend on your beliefs about your ability to
-learn and improve through effort.
-
-## Do you believe you are a "math person"
-
-- Are you comfortable with mathematics?
-- Do you think your abilities can improve with effort and practice?
-- When you make important financial decisions, will you try to
-    understand the details?
-
-## Grit, Mindset, Effort
-
-- This will not always be easy or pleasurable
-- You should be prepared to fail
-- Some of your efforts should look like [this](https://t.co/gpISMANVMz)
-- I frequently struggle to learn new branches of mathematics
 
 ## Bloom's Taxonomy
 
@@ -133,20 +151,38 @@ Here are a few examples:
 - Is climate change an urgent problem?
 - Does our justice system treat everyone equally and fairly?
 
-## Why are you in college?
+Challenge yourself by coming up with a list of twenty questions.
 
-- What is important about your degree?
-- Is the diploma important?
-- Is your choice of major important?
-- Are the abilities you will develop important?
 
 # References
 
-- Paulos
-- *How Not To Be Wrong*, Ellenberg
-- Duckworth, Grit Video or book
-- Dweck, Mindset Video or book chapter
+- *Turning Numbers into Knowledge*, Jonathan Koomey
+    - 16. Don't Believe Everything You Read
+    - 19. Distinguish Facts From Values
+    - 28. Make a Model
+    - 29. Reuse Old Envelopes
+- *A Mind For Numbers*, Barbara Oakley
+    - 1. Open the Door
+    - 2. Easy Does It
+    - 3. Learning is Creating
+    - 4. Chunking and Avoiding Illusions of Competence
+    - 5. Preventing Procrastination
+    - 6. Zombies Everywhere
+- *Guesstimation*, Weinstein and Adam
+    - 1. How to Solve Problems
+    - 2. Dealing with Large Numbers
 - *The Joy of X: A Guided Tour of Math, from One to Infinity*, Steven Strogatz.
-- *A Mind for Numbers*, Barbara Oakley
-- [modeling is the new literacy](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)
+    - 1. From Fish to Infinity
+    - 2. Rock Groups
+    - 4. Commuting
+    - 5. Division and Its Discontents
+    - 6. Location, Location, Location
+    - 9. My Tub Runneth Over
+- *The Signal and the Noise*, Nate Silver
+- *How Not To Be Wrong*, Ellenberg
+- *How To Lie With Statistics*, Darrell Huff
+- *Naked Statistics*, Charles Wheelan
+- [Modeling is the New Literacy](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)
+- *Grit*, Angela Duckworth
+- *Mindset*, Carol Dweck
 
