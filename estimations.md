@@ -1,7 +1,7 @@
 # Estimations
 
 The ability to quickly estimate a quantity is an art and an excellent
-way to sharpen your mathematical intuition.
+way to sharpen your quantitative intuition.
 
 You must let go of the idea that your answer will be correct.  Your
 answer will be an estimation that will give us insight into a decision
@@ -10,7 +10,8 @@ accurate do you need to be?
 
 You also usually can not estimate your quantity directly, but must
 instead break down your estimate into other smaller estimation problems
-that can be tackled individually.
+that can be tackled individually.  We will start with simple estimations
+and then move on to estimations that require more planning.
 
 Estimates have two frequent purposes.  One is to provide evidence for a
 claim.  Another is to gain insight into an unfamiliar situation.
@@ -53,27 +54,25 @@ into the problem we are investigating.
 slices
 - Most models assume that a real world problem will behave like a
 mathematical function
+- Models are normative and make assumptions about the world
 
-## Pizza Example
+# Pizza Example
 
-<!-- remember, you are supporting a decision -->
+- We are going to spend money on pizza
+- If we spend too much, we waste pizza
+- If we spend too little, folks go hungry
+- As you can see, the stakes are high
 
 ## Pizza estimation
 - Estimate how many pizzas it would take to feed this class?
 - How did you arrive at your answer?
 - Does it matter how accurate our estimate is?
-
-## Creating your estimation
-- Understand the problem
-- Identify the most important quantities
-- Estimate the value of these quantities
-- Set up the computation as clearly as possible
-- Execute the computation
-- Decide if the result is plausible
+- How accurate does our estimate need to be?
 
 ## Important quantities
 - How many people in the room
 - How much pizza does the average person eat?
+- Note that our numbers describe something physical
 
 ## Set up computation
 $$ \textrm{people} \cdot
@@ -98,9 +97,13 @@ $$ \textrm{people} \cdot
   planet isn't that far from this method of estimation.
 - How much land would this take?
 
+## Future topics
 
+- Quantities, dimensions, and units
+- Scientific notation for representing large numbers
+- Using computers to ensure reliable computation
 
-## Arguments
+# Arguments
 
 You are frequently presented with arguments persuading you to think,
 act, spend, or vote in a certain way.  How will you evaluate the
@@ -111,6 +114,11 @@ validity of these arguments, especially when mathematics is involved?
 - Are the math claims made to support the argument valid?
 - What assumptions to these claims make?  Would you agree?
 - What alternate explanations are possible?
+
+## Arguments
+
+- What makes a strong argument?
+- What are logical fallacies?
 
 
 
@@ -133,6 +141,7 @@ with working with lots of uncertainty in our estimates.
 - What is 10 + 1?
 - What is one thousand + 1?
 - What is one million + 1?
+- We see that adding one doesn't matter in some cases.
 
 ## Approximations
 - For many problems, only the first digit and the number of zeros is
@@ -149,33 +158,9 @@ rough approximation.
 
 
 
-## Exercises
-
-- What is the area of lot A?
-- What is the area of SSU?
-- What is the mass of the air in the ETC?
-
-<!-- outlandish estimations -->
-<!-- how many piano tuners in chicago -->
-<!-- strength of atomic bomb blast -->
-<!-- how much mass in kg will sonoma county poop today? -->
-<!-- how many golf balls will ring the world? -->
-<!-- how many hours to drive to New York?  Las Vegas? -->
 
 
-<!-- question for groups -->
-<!-- can you come up with an interesting or important estimation?  -->
-
-
-## Computation vs Quantitative Reasoning
-
-- You have been asked to perform computations
-- Your are given a mathematical expression and asked to compute it
-- We will practice coming up with the correct expression to compute
-
-
-
-## Further reading
+# Further reading
 
 - Weinstein, Guesstimation
 - Sanjoy Manahajan, The Art of Insight

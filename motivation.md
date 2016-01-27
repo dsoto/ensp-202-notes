@@ -15,9 +15,6 @@ different from mathematics as you understand it?
 - Is the diploma important?
 - Is your choice of major important?
 - Are the abilities you will develop important?
-
-## Why are you in college?
-
 - One popular reason is to have better employment
 - To get better employment one needs better skills
 - Applied mathematics skills are valuable for many jobs and problems
@@ -63,7 +60,7 @@ songs.](https://www.youtube.com/watch?v=QpB_40hYjXU)
 - You will gain many new skills in applying your existing mathematics to
     problems
 
-# Using Computers
+    ## Using Computers
 
 We will learn to use computers to perform and communicate our
 estimations and mathematical arguments.
@@ -105,6 +102,14 @@ with practice.
 - Analyzing
 - Evaluating
 - Creating
+
+It is important to recognize that computers are able to perform many
+tasks that fall into the lower levels of this taxonomy.
+
+## Metacognition
+
+- How do you know when you have learned this material?
+- Barbara Oakley's book is an excellent reference.
 
 # Activities
 
