@@ -55,8 +55,11 @@ slices
 - Most models assume that a real world problem will behave like a
 mathematical function
 - Models are normative and make assumptions about the world
+- Modeling is the important mathematical literacy we are developing
 
 # Pizza Example
+
+This is a simple example to illustrate estimation and modeling.
 
 - We are going to spend money on pizza
 - If we spend too much, we waste pizza
