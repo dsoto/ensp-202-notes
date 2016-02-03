@@ -9,10 +9,10 @@ position of each symbol relative to the other numbers changes its value.
 - Babylonian base 60
 
 ## Babylonian Numerals
-![](../figures/babylonian.pdf)
+![](./figures/babylonian.png)
 
 ## Roman Numerals
-![](../figures/roman-numerals.jpg)
+![](./figures/roman-numerals.jpg)
 
 ## Beans and dice activity
 
@@ -24,7 +24,7 @@ position of each symbol relative to the other numbers changes its value.
 - Computers use base 2 and 16
 
 ## What if you only have eight fingers?
-![](../figures/eight-fingers.png)
+![](./figures/eight-fingers.png)
 
 ## Base 8
 - $8^0 = 1$
@@ -35,15 +35,19 @@ position of each symbol relative to the other numbers changes its value.
 See written notes
 
 ## Visualization of multiplication algorithms
-See written notes
+
+- See written notes
+- Do you understand how these algorithms work?
+- Can you see them as a tree model estimation?
 
 ## Lattice multiplication
-![](../figures/lattice-multiplication.jpg)
+![](./figures/lattice-multiplication.jpg)
 
 ## Division
 - Repeated subtraction
 - Long division
 - Repeated quotients
+
 
 
 <!-- graphical display of multiplication squares -->
