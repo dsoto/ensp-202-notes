@@ -106,6 +106,21 @@ $$ \textrm{people} \cdot
 - Scientific notation for representing large numbers
 - Using computers to ensure reliable computation
 
+# More complex models
+
+In the Art of Insight, Sanjoy Mahajan presents ways of determining what
+estimations you need to make in your model.  A useful tool is a tree
+model.
+
+This diagram is a tree model to help us determine the volume of a dollar
+bill.
+
+![Tree Model](./figures/tree-model.png)
+
+Note how we break up our goal estimation into smaller problems and then
+work to determine if the smaller problems require further decomposition.
+
+
 # Arguments
 
 You are frequently presented with arguments persuading you to think,
@@ -163,7 +178,15 @@ rough approximation.
 
 
 
+
 # Further reading
 
 - Weinstein, Guesstimation
 - Sanjoy Manahajan, The Art of Insight
+
+# Activities
+
+- What is your estimate of the world population?
+- How many students at Sonoma State?
+- How many nail salons are there in Rohnert Park?
+
