@@ -6,6 +6,11 @@ evenly spaced values is the same, anywhere on the graph.  This is
 similar to linear functions where the absolute difference between any
 two values separated by the same x-axis distance is the same.
 
+If you plot something on a log axis, you will notice that the distance
+between any two numbers with the same ratio is the equal.  This
+preservation of the size of a ratio is the key feature of logarithms and
+exponentials.
+
 ## Graph illustrating this point
 
 ## Folding paper

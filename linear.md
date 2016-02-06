@@ -54,7 +54,7 @@ $$ y = mx + b $$
 ![](../figures/slope-intercept.pdf)
 
 ## Proportion
-- If $b=0$ we say $x$ and $y$ are proportional
+- If $$b=0$$ we say $x$ and $y$ are proportional
 - Symbol $\propto$
 - If two things are proportional, the values of the two properties are
   related by a constant factor
