@@ -37,3 +37,12 @@ http://cshsyear10maths.global2.vic.edu.au/files/2008/08/standard-form-table.png
 - Multiplication
 - Division
 
+## Multiplying and dividing large numbers
+
+$$ 10^a \cdot 10^b = 10^{a+b} $$
+
+$$ c \cdot 10^a \cdot d \cdot 10^b = c \cdot d \cdot 10^{a+b} $$
+
+See written notes
+
+

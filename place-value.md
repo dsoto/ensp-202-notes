@@ -4,7 +4,10 @@ Why can we represent millions of different numbers even though we only
 have 10 symbols in the arabic numeral system?  The answer is that the
 position of each symbol relative to the other numbers changes its value.
 
-## Different representations of numbers
+# Early number systems
+
+Early number systems seem reminiscent of a tally system.
+
 - Roman numerals
 - Babylonian base 60
 
@@ -14,7 +17,18 @@ position of each symbol relative to the other numbers changes its value.
 ## Roman Numerals
 ![](./figures/roman-numerals.jpg)
 
-## Beans and dice activity
+## The invention of the zero
+
+The invention of the zero was a significant advance in our number
+systems.
+
+# Modern Numbers
+
+## Base 10 Place Value Systems
+
+The value of a digit depends on its position relative to our decimal
+point.  Notice that although we don't always write the decimal point,
+its position is always important.
 
 ## Place value
 - Written notes
@@ -30,6 +44,32 @@ position of each symbol relative to the other numbers changes its value.
 - $8^0 = 1$
 - $8^1 = 8$
 - $8^2 = 64$
+
+## Binary representation
+
+A base 2 system is the basis for computer representations of numbers.
+
+The computer performs all calculations in binary and then converts to
+decimal.
+
+## Hexadecimal representation
+
+This is a base sixteen representation.  It includes the letters A, B, C,
+D, E, and F to represent 10, 11, 12, 13, 14, and 15.
+
+You may see this if you have worked with computer colors for websites or
+graphic design.
+
+# Hand Calculation Algorithms
+
+The techniques you learned to add, subtract, multiply, and divide
+numbers exploit the place value system.
+
+Imagine multiplication if you had only tally marks or stones as a
+representation.  To multiply 5 by 6, you would make five piles of six
+stones and then carefully count all 30 stones to arrive at your answer.
+Any multiplication resulting in an impractical number of stones would be
+beyond your capability.
 
 ## Visualization of multiplication areas
 See written notes
@@ -48,8 +88,6 @@ See written notes
 - Long division
 - Repeated quotients
 
-
-
 <!-- graphical display of multiplication squares -->
 
 ## Learning Objectives
@@ -62,12 +100,13 @@ See written notes
 - Lattice multiplication
 
 
-## Multiplying and dividing large numbers
+# Further reading
 
-$$ 10^a \cdot 10^b = 10^{a+b} $$
+- Strogatz, From Fish to Infinity
+- Strogatz, Location, Location, Location
 
-$$ c \cdot 10^a \cdot d \cdot 10^b = c \cdot d \cdot 10^{a+b} $$
+# Activities
 
-See written notes
+## Bean representation
 
 
