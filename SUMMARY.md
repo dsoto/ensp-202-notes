@@ -1,6 +1,7 @@
 # Quantitative Methods
 
 * [Motivation](motivation.md)
+    * [Metacognition](metacognition.md)
 * [Number Systems](number-systems.md)
     * [Place Value](place-value.md)
     * [Scientific Notation](scientific-notation.md)

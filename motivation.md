@@ -60,56 +60,11 @@ songs.](https://www.youtube.com/watch?v=QpB_40hYjXU)
 - You will gain many new skills in applying your existing mathematics to
     problems
 
-    ## Using Computers
+## Using Computers
 
 We will learn to use computers to perform and communicate our
 estimations and mathematical arguments.
 
-
-## Your attitude toward mathematics
-
-Much of your success will depend on your beliefs about your ability to
-learn and improve through effort.
-
-## Do you believe you are a "math person"
-
-- Are you comfortable with mathematics?
-- Do you think your abilities can improve with effort and practice?
-- When you make important financial decisions, will you try to
-    understand the details?
-
-## Grit, Mindset, Effort
-
-- This will not always be easy or pleasurable
-- You should be prepared to fail
-- Some of your efforts should look like [this](https://t.co/gpISMANVMz)
-- I frequently struggle to learn new branches of mathematics
-
-
-## Bloom's Taxonomy
-
-There are different levels of cognitive skills that we sharpen in higher
-education.  Your goal should be to exercise the highest levels of
-cognitive skills.
-
-You may initially have difficulty analyzing problems, evaluating the
-claims of others, and creating your own models, but this will get easier
-with practice.
-
-- Remembering
-- Understanding
-- Applying
-- Analyzing
-- Evaluating
-- Creating
-
-It is important to recognize that computers are able to perform many
-tasks that fall into the lower levels of this taxonomy.
-
-## Metacognition
-
-- How do you know when you have learned this material?
-- Barbara Oakley's book is an excellent reference.
 
 # Activities
 
