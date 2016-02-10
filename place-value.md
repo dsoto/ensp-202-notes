@@ -60,6 +60,19 @@ D, E, and F to represent 10, 11, 12, 13, 14, and 15.
 You may see this if you have worked with computer colors for websites or
 graphic design.
 
+##
+![](../figures/place-value-base-8.png)
+
+##
+![](../figures/place-value-base-10.png)
+
+##
+![](../figures/place-value-representations.png)
+
+##
+![](../figures/place-value.png)
+
+
 # Hand Calculation Algorithms
 
 The techniques you learned to add, subtract, multiply, and divide
