@@ -13,6 +13,11 @@ calculation is often preferable to using a calculator.
 We will start with concepts most familiar to you from your work with
 calculators and we will build more concepts on that knowledge.
 
+# Materials
+
+You can find an interactive set of files
+[here.](http://mybinder.org/repo/dsoto/computing-tutorial)
+
 # Basic Concepts
 
 - Computing platforms
