@@ -57,4 +57,20 @@ with practice.
 It is important to recognize that computers are able to perform many
 tasks that fall into the lower levels of this taxonomy.
 
+# Critical Thinking
 
+There are several important concepts from critical thinking that we will
+use in this class.
+
+## The Principle of Charity
+
+- Consider an argument to be rational and worthy of exploration
+- If we see an quantitative analysis we disagree with, it is only through
+    understanding it that we can seek to find its flaws
+
+## Rival Causes
+
+- The first explanation is not always the correct one
+- Rival causes are plausible reasons for observing the same outcome
+- It is often useful to examine multiple rival causes to see which one
+    is the best explanation
