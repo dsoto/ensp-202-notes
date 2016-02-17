@@ -1,5 +1,8 @@
 ## Scientific Notation
+
 - Allows us to compactly write very large or very small numbers
+- Creates a shorthand that allows us to simplify calculation and avoid
+    errors
 
 ## Orders of magnitude
 - Powers of ten
@@ -7,9 +10,12 @@
 - Operating on numbers with scientific notation
 
 ## Representing large numbers
-- On paper
-- On a calculator
-- On a computer
+
+There are different ways to express scientific notation
+
+- On paper $$1.23 \times 10^4$$
+- On a calculator 1.23 (EE key) 4
+- On a computer `1.23E4`
 
 ## A very large number
 - Avogadro's Number

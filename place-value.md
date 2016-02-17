@@ -89,9 +89,14 @@ See written notes
 
 ## Visualization of multiplication algorithms
 
-- See written notes
 - Do you understand how these algorithms work?
 - Can you see them as a tree model estimation?
+
+
+
+![](../figures/multiplication.png)
+
+![](../figures/area_multiplication.png)
 
 ## Lattice multiplication
 ![](./figures/lattice-multiplication.jpg)
