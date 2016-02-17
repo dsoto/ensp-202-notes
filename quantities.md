@@ -124,3 +124,16 @@ change the units.
 
 
 
+# Activities
+
+## Body Estimations
+
+Determine the parts of your body that are close to common measures of
+length.
+
+- Centimeter
+- Inch
+- Meter
+
+Also, your stride is a useful measurement for long distances.  Walk at a
+natural pace and determine the length of your stride.
