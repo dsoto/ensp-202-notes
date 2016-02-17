@@ -41,9 +41,9 @@ its position is always important.
 ![](./figures/eight-fingers.png)
 
 ## Base 8
-- $8^0 = 1$
-- $8^1 = 8$
-- $8^2 = 64$
+- $$8^0 = 1$$
+- $$8^1 = 8$$
+- $$8^2 = 64$$
 
 ## Binary representation
 
