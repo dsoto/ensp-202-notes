@@ -59,9 +59,9 @@ force
 - Units can be crossed out
 
 
-![](../figures/inch-cm-conversion-1.png)
+![](./figures/inch-cm-conversion-1.png)
 
-![](../figures/inch-cm-conversion-2.png)
+![](./figures/inch-cm-conversion-2.png)
 
 
 ## Two units in the denominator
@@ -75,9 +75,9 @@ of an equation
 
 
 
-![](../figures/dimensional-analysis-1.png)
+![](./figures/dimensional-analysis-1.png)
 
-![](../figures/dimensional-analysis-2.png)
+![](./figures/dimensional-analysis-2.png)
 
 
 
@@ -120,7 +120,7 @@ change the units.
 
 ## Example: Units of students per acre
 - [Cal State densities](https://twitter.com/calpolypomona/status/431937140457349120/photo/1)
-![](../figures/cal-state-density.jpg)
+![](./figures/cal-state-density.jpg)
 
 
 
