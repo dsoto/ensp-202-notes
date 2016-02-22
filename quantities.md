@@ -64,28 +64,6 @@ force
 ![](./figures/inch-cm-conversion-2.png)
 
 
-## Two units in the denominator
-- Births per capita per year
-- Hours per week per unit
-
-
-## Dimensional analysis example
-We can use the dimensions of the relevant quantities to deduce the form
-of an equation
-
-
-
-![](./figures/dimensional-analysis-1.png)
-
-![](./figures/dimensional-analysis-2.png)
-
-
-
-<!-- what are some units and some unusual units -->
-<!-- clicks, bytes, click velocity -->
-
-
-
 ## Unit conversion factors
 - These factors are equivalent to one or unity and are dimensionless
 - They are not numerically equal to one in most cases.
@@ -108,6 +86,11 @@ quantity of feet by this, you won't change the quantity but you will
 change the units.
 
 
+## Two units in the denominator
+- Births per capita per year
+- Hours per week per unit
+
+
 ## Combinations of units
 - We often combine units to express new quantities
 
@@ -124,6 +107,23 @@ change the units.
 
 
 
+## Dimensional analysis example
+We can use the dimensions of the relevant quantities to deduce the form
+of an equation
+
+
+
+![](./figures/dimensional-analysis-1.png)
+
+![](./figures/dimensional-analysis-2.png)
+
+
+
+<!-- what are some units and some unusual units -->
+<!-- clicks, bytes, click velocity -->
+
+
+
 # Activities
 
 ## Body Estimations
@@ -137,3 +137,18 @@ length.
 
 Also, your stride is a useful measurement for long distances.  Walk at a
 natural pace and determine the length of your stride.
+
+## Making estimates
+
+Using the length standards you have created with your body, estimate the
+following lengths and show your conversions.
+
+- Length and width of your desk
+- Length and width of the ETC
+
+*Example:*
+
+$$ 3 \textrm{cubits} \cdot \frac{1.3 \textrm{feet}}{1 \textrm{cubits}} = 3.9
+\textrm{feet} $$
+
+Use both metric and english units for each answer.
