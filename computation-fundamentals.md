@@ -5,6 +5,17 @@ computations.  You likely have lots of practice on calculators.  There
 are significant similarities between the calculator and the computer but
 there are some important differences.
 
+# Materials
+
+You can find an interactive set of files
+[here.](http://mybinder.org/repo/dsoto/computing-tutorial)
+
+If the link above doesn't work, you can find the files
+[here](https://github.com/dsoto/computing-tutorial).  Clicking on this
+icon
+![Binder](http://mybinder.org/badge.svg)
+should launch an interactive session.
+
 # Types
 
 The computer uses ones and zeros to represent all data.  Anything stored

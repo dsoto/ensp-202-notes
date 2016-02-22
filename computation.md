@@ -18,6 +18,12 @@ calculators and we will build more concepts on that knowledge.
 You can find an interactive set of files
 [here.](http://mybinder.org/repo/dsoto/computing-tutorial)
 
+If the link above doesn't work, you can find the files
+[here](https://github.com/dsoto/computing-tutorial).  Clicking on this
+icon
+![Binder](http://mybinder.org/badge.svg)
+should launch an interactive session.
+
 # Basic Concepts
 
 - Computing platforms
