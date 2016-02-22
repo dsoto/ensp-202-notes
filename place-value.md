@@ -30,12 +30,19 @@ The value of a digit depends on its position relative to our decimal
 point.  Notice that although we don't always write the decimal point,
 its position is always important.
 
-## Place value
-- Written notes
 
 ## Different bases
 - We can use any number as the basis of a place-value system
 - Computers use base 2 and 16
+- These bases provide different representations of the same number
+
+## The number 5
+
+- Here are five dots .....
+- We can call this "five"
+- Others call it "cinco"
+- In decimal we call it "5"
+- In binary we call it "101"
 
 ## What if you only have eight fingers?
 ![](./figures/eight-fingers.png)
