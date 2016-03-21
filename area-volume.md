@@ -111,6 +111,11 @@ the land area that drains into the creek.
 
 ![](./figures/creek-flow.png)
 
+## Average Power
+
+If we have a power that is changing over time, we can interpret the area
+under the curve as an energy.  The average power is the height of a
+rectangle with the equal width and area.
 
 # Area as a way of understanding formulas
 
