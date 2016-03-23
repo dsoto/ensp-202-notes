@@ -179,3 +179,13 @@ this relationship between formulas and areas is what i find interesting
 - I have a coupon for 1000 square feet of carpet.
 - What is the largest square room I can cover?
 
+
+## Creek Flow Estimation
+- Make a model of the flow
+    - What are your assumptions?
+    - Is all the water flowing at same speed?
+    - What is the basic depth and shape of the creek bed?
+- Estimated the flow of the creek in volume per time
+- Estimate the linear speed of flow
+- Estimate the volume per time
+- Where is the water coming from?
