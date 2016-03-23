@@ -11,7 +11,9 @@ between any two numbers with the same ratio is the equal.  This
 preservation of the size of a ratio is the key feature of logarithms and
 exponentials.
 
-## Graph illustrating this point
+<!-- do I have an good illustration of this already? -->
+
+# Examples
 
 ## Folding paper
 - Zero folds 2$^0$ makes one sheet thick
@@ -38,17 +40,6 @@ The number of rabbits at the start of the generation (starting with
 generation zero) is
 $$ \textrm{rabbits} = 2^{\textrm{generations+1}} $$
 
-## Doubling
-![](../figures/doubling.pdf)
-
-
-## Which gets bigger faster?
-$x^2$ or $2^x$
-
-Draw these out in your notebook to see
-
-<!-- note you are moving the x from the base to the exponent -->
-
 ## Money grows the same way
 - Start with $1000
 - Grow by 10%
@@ -69,12 +60,22 @@ $$ 1000 \cdot (1+0.10)^{years} $$
 - Credit card balances
 - Viruses
 
-## Exponential growth
-![](../figures/exponential.pdf)
+# Definitions
+
+## Doubling
+![](./figures/doubling.png)
+
+
+## Which gets bigger faster?
+$$x^2$$ or $$2^x$$
+
+Draw these out in your notebook to see
+
+<!-- note you are moving the x from the base to the exponent -->
 
 
 ## Exponential growth
-![](../figures/exponential.pdf)
+![](./figures/exponential.png)
 
 ## Exponential Decay
 What if instead of doubling every year, something fell by half each
@@ -83,15 +84,22 @@ year?
 <!-- tear a piece of paper in half repeatedly -->
 
 ## Halving
-![](../figures/halving.pdf)
+![](./figures/halving.png)
 
 ## Exponential Decay
-![](../figures/exponential-decay.pdf)
+![](./figures/exponential-decay.png)
 
 ## Exponential decay
 - A quantity loses the same fraction of itself for a given time interval
 - Nuclear waste
 - Toxins in a body
+
+
+# Worked problems
+
+# Abstractions
+
+# Logarithm
 
 ## Inverse functions
 - Recall that the square root and the cube root were the inverse of the
@@ -104,7 +112,7 @@ year?
 
 ## Logarithm
 - Inverse of exponential function
-- If $y = 10^x$ then $\log y = x$
+- If $$y = 10^x$$ then $\log y = x$
 - If $y = e^x$ then $\ln y = x$
 - For any other number (called the base, $b$):
     - If $y = b^x$ then $\log_b y = x$
@@ -120,39 +128,22 @@ The logarithm in base 10 basically asks, if you are in base 10, how many digits?
 
 In each of these, we perceive or use the logarithm.
 
-## Unexpected connections
-The natural logarithm is the area under the 1/x curve
-
 ## This rule is a consequence of logarithms
 $$ 10^a \cdot 10^b = 10^{a+b} $$
 
 Take log of both sides
 
 $$ a \cdot \log 10 + b \cdot \log 10 = (a+b) \cdot \log 10 $$
-## Calculation examples
-- Julia
-- Calculator
 
-<!-- flipping equations -->
+# Misc
 
-## Differential equation
 
-$$ \frac{dP}{dt} = rP $$
+# Unexpected connections
 
-- P is the population
-- r is the rate of growth
+The number e and the natural logarithm are connected in various places
+to other mathematical numbers in fascinating ways.
 
-Any equation where the change is proportional to the population is
-exponential growth
-
-<!-- draw out some rise over run graphs -->
-
-## Differential equation
-
-$$ \frac{dP}{dt} = \textrm{constant} $$
-
-Linear growth has the changes is constant
-
+The natural logarithm is the area under the 1/x curve
 
 ## Definitions of e
 
@@ -170,14 +161,60 @@ $$ e^{i \pi} + 1 = 0 $$
 
 where $i = \sqrt{-1}$
 
+
+
+## Calculation examples
+- Julia
+- Calculator
+
+<!-- flipping equations -->
+
+# Advanced Topics
+
+I call these advanced topics mainly because the notation we use to
+express them is intimidating.  The ideas behind them are simple and are
+unnecessarily obscured by our notation.
+
+## Differential equation
+
+$$ \frac{dP}{dt} = rP $$
+
+- P is the population
+- r is the rate of growth
+
+Any equation where the change is proportional to the population is
+exponential growth
+
+This relates to our earlier definitions where the percent change is
+constant for a given time interval.
+
+<!-- draw out some rise over run graphs -->
+
+## Differential equation
+
+$$ \frac{dP}{dt} = \textrm{constant} $$
+
+Linear growth has the changes is constant
+
+
 ## Logistic function
 
 Here the rate of change decreases as the population gets very large
 
 This gives an s-shaped function.
 
-<!-- like in the gangham style video -->
+You can see an example of this curve in the gangham style video
+statistics on youtube.
 
 
+## Time constant
 
+This number expresses the time it takes for an exponential function to
+increase by a certain fraction.
+
+$$ e^{t/\tau} $$
+
+# Activities
+
+## Estimate the global growth rate
 
