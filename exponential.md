@@ -16,15 +16,14 @@ exponentials.
 # Examples
 
 ## Folding paper
-- Zero folds 2$^0$ makes one sheet thick
-- One fold 2$^1$ is two sheets thick
+- Zero folds $$2^0$$ makes one sheet thick
+- One fold $$2^1$$ is two sheets thick
 - How many times can you fold?
 - How can we express the number of pages by the number of folds?
 - Can we write out the pattern?
 
 <!-- my max is six -->
 
-## Folding Paper
 $$ \textrm{pages} = 2^{\textrm{folds}} $$
 
 ## Rabbits
@@ -35,7 +34,6 @@ $$ \textrm{pages} = 2^{\textrm{folds}} $$
 - now we have eight (8)
 - how many in 5 years?
 
-## Rabbits
 The number of rabbits at the start of the generation (starting with
 generation zero) is
 $$ \textrm{rabbits} = 2^{\textrm{generations+1}} $$
@@ -66,6 +64,25 @@ $$ 1000 \cdot (1+0.10)^{years} $$
 ![](./figures/doubling.png)
 
 
+## Doubling Time
+
+Exponential growth means that if you measure how long it takes a
+quantity to double, the time to double from any current amount will be
+the same.
+
+<!-- feels like clumsy phrasing -->
+
+![](./figures/doubling-time.png)
+
+
+## Constant Growth
+
+This is in contrast to linear growth where if you wait for the amount to
+increase by a fixed amount, the amount will always increase by that
+fixed amount in that amount of time.
+
+![](./figures/linear-growth.png)
+
 ## Which gets bigger faster?
 $$x^2$$ or $$2^x$$
 
@@ -95,9 +112,7 @@ year?
 - Toxins in a body
 
 
-# Worked problems
 
-# Abstractions
 
 # Logarithm
 
@@ -112,10 +127,10 @@ year?
 
 ## Logarithm
 - Inverse of exponential function
-- If $$y = 10^x$$ then $\log y = x$
-- If $y = e^x$ then $\ln y = x$
-- For any other number (called the base, $b$):
-    - If $y = b^x$ then $\log_b y = x$
+- If $$y = 10^x$$ then $$\log y = x$$
+- If $$y = e^x$$ then $$\ln y = x$$
+- For any other number (called the base, $$b$$):
+    - If $$y = b^x$$ then $$\log_b y = x$$
 
 ## Logarithm
 The logarithm in base 10 basically asks, if you are in base 10, how many digits?
@@ -159,13 +174,18 @@ $$ e^{i \theta} = \cos \theta + i \sin \theta $$
 
 $$ e^{i \pi} + 1 = 0 $$
 
-where $i = \sqrt{-1}$
+where $$i = \sqrt{-1}$$
 
 
 
 ## Calculation examples
-- Julia
-- Calculator
+
+- Most scripting languages and calculators use the `^` symbol for
+    exponents.  `2^2 = 4`.
+- Python uses `**` for exponentiation.  `2**2 = 4`
+- Some computer programs use `log` to mean the natural logarithm, not
+    the base 10 logarithm.  Check carefully and see what your tool uses.
+- If you type `log(10)` and get 2.3 you are not using base 10.
 
 <!-- flipping equations -->
 
@@ -217,4 +237,8 @@ $$ e^{t/\tau} $$
 # Activities
 
 ## Estimate the global growth rate
+
+## How many times can you fold a piece of paper?
+
+## What is the growth rate of solar energy in the US?  Worldwide?
 
