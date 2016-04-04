@@ -1,16 +1,3 @@
-# ENSP 202, Lecture 16, Trigonometry
-
-## Announcements
-- Homework assignments on syllabus
-- ENSP Applications due this Friday, Mar 27th
-- Equinox
-
-<!-- reorient to syllabus -->
-
-## Reading
-- Sine qua non, Strogatz Chapter 15
-- Sine and cosine goes beyond triangles
-
 ## Topics
 - Trigonometry
     - Beyond triangles
@@ -96,32 +83,6 @@ conversion factor.
 - $\omega$ has dimensions of radians per unit time
 - $k$ has dimensions of radians per distance
 
-## Pi in unexpected places
-$$\frac{\pi}{4} = 1 - \frac{1}{3} + \frac{1}{5} - \frac{1}{7} + \cdots $$
-
-
-# ENSP 202, Lecture 17, Trigonometry
-
-## Announcements
-
-## Due Today
-- Homework 7.1, 7.2
-- Monday 8.1, 8.2 due
-
-## Review
-- Triangles
-
-## How many radians in a thumb?
-- Written
-- For small angles, we can estimate the arc length as the vertical
-  length
-- This means in radians for small angles $$\sin\theta \sim \theta$$
-
-## Activity
-- Measure angle subtended by your thumb
-- Measure height of bacon and eggs
-- Measure height of Darwin
-
 ## Calculation examples
 - Excel
 - Calca
@@ -135,4 +96,18 @@ $$\frac{\pi}{4} = 1 - \frac{1}{3} + \frac{1}{5} - \frac{1}{7} + \cdots $$
     - Find the cosine of 1 radian
     - Find the sine of 1/2 a radian
 
+
+## Pi in unexpected places
+$$\frac{\pi}{4} = 1 - \frac{1}{3} + \frac{1}{5} - \frac{1}{7} + \cdots $$
+
+## How many radians in a thumb?
+- Written
+- For small angles, we can estimate the arc length as the vertical
+  length
+- This means in radians for small angles $$\sin\theta \sim \theta$$
+
+# Activities
+- Measure angle subtended by your thumb
+- Measure height of bacon and eggs
+- Measure height of Darwin
 
