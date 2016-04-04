@@ -111,8 +111,6 @@ that you must keep track of
 - Concentrations
 - Stocks and flows
 
-## Assigned
-- [Upcoming Deadlines](http://danielrsoto.com/teaching.html)
 
 ## Reading
 - Adding rates

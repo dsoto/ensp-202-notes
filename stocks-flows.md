@@ -1,5 +1,3 @@
-# ENSP 202, Lecture 22, Stocks and Flows
-
 ## Stocks and flows
 - Bath tub model
 - Steady state
@@ -28,14 +26,6 @@
 <!-- students in the university -->
 
 
-# ENSP 202, Lecture 23, Stocks and Flows
-
-## Announcements
-- Sonoma Sustainable Enterprise Conference Thu 30 April 2015
-- Future Makers Youth Summit Sat 2 May 2015
-- Fall ENSP Class Link
-- Geography classes
-
 
 ## Carbon dioxide Activity
 - Estimate persons in the room with carbon dioxide?
@@ -47,7 +37,6 @@
 <!-- see photos from the whiteboards -->
 
 
-# ENSP 202, Lecture 24, Stocks and Flows
 
 ## Learning Objectives
 - Able to use stock and flow models to make estimates
@@ -78,7 +67,6 @@
 - Chalkboard review
 
 ## Using modern computation tools
-- Show Calca with units
 
 <!--
 breath_volume = 0.5 liter exhalation/breath
@@ -117,29 +105,24 @@ ETC_ppm_per_minute / ppm_per_person_per_minute  => 12.369 person
 <!-- what parts do you think are least important? -->
 
 ## Water sankey diagram
-![LLNL Water Flows CA](../figures/calflow.pdf)
+![LLNL Water Flows CA](./figures/calflow.png)
 
 
 ## Board Notes
-![](../figures/ENSP-202-SF-1.JPG)
+![](./figures/ENSP-202-SF-1.JPG)
 
 ## Board Notes
-![](../figures/ENSP-202-SF-2.JPG)
+![](./figures/ENSP-202-SF-2.JPG)
 
 ## Board Notes
-![](../figures/ENSP-202-SF-3.JPG)
+![](./figures/ENSP-202-SF-3.JPG)
 
 ## Board Notes
-![](../figures/ENSP-202-SF-4.JPG)
+![](./figures/ENSP-202-SF-4.JPG)
 
 ## Board Notes
-![](../figures/ENSP-202-SF-5.JPG)
+![](./figures/ENSP-202-SF-5.JPG)
 
 ## Board Notes
-![](../figures/ENSP-202-SF-6.JPG)
+![](./figures/ENSP-202-SF-6.JPG)
 
-
-
-# ENSP 202, Lecture 25, Statistics
-# ENSP 202, Lecture 26, Statistics
-# ENSP 202, Lecture 27, Statistics
