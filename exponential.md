@@ -150,6 +150,23 @@ Take log of both sides
 
 $$ a \cdot \log 10 + b \cdot \log 10 = (a+b) \cdot \log 10 $$
 
+# Solving Problems
+
+## Analytical Approach
+
+Use the logarithm as an inverse function.
+
+$$ y = \beta e^x $$
+$$ \log {y/\beta} = \log{e^x} $$
+$$ \log {y/\beta} = x $$
+
+## Brute force approach
+
+If you know y and $$\beta$$ you can try different values for x until you
+come close to the value for y.
+
+$$ y = \beta e^x $$
+
 # Misc
 
 
