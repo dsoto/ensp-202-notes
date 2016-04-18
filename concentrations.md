@@ -1,3 +1,7 @@
+# Overview
+
+## Motivation
+
 What happens if we spill an amount of a toxic chemical into a lake?  How
 much of the chemical do we have to spill before it is dangerous?
 
@@ -9,20 +13,17 @@ To make these estimations, we can use concentrations as a tool.
 When you encounter the terms parts per million or parts per billion,
 these work exactly like percentages (parts per hundred).
 
+Many of you have a command of percentages.  These concentrations are
+simply generalizations of the concept of percentages.  Once you realize
+that a percentage is equivalent to parts per hundred, you will be able
+to understand and use parts per million and billion confidently.
 
 
+## Examples of concentrations
 
-## Concentration
-
-$$ \frac{\textrm{mass or volume of material of interest}}
-        {\textrm{total mass or volume}} $$
-
-## Dilution Demonstration
-
-## Concentration
-- For our 100 to 1 dilutions, the concentration is
-
-$$ 10^{-2\cdot\textrm{dilutions}} $$
+- Carbon Dioxide in the atmosphere
+- Blood Alcohol content
+- What are examples of concentrations you think are important?
 
 ## Concentration Units
 - Percentages
@@ -30,12 +31,25 @@ $$ 10^{-2\cdot\textrm{dilutions}} $$
 - Parts per billion (ppm)
 - Parts per trillion (ppt)
 
+Do these have dimensions?  Do they have units?
+
+# Details
+
+## Concentration
+
+We usually define a concentration as the ratio of a quantity of
+interest (pollutant) to the total volume of the material containing the
+pollutant.
+
+$$ \frac{\textrm{mass or volume of material of interest}}
+        {\textrm{total mass or volume}} $$
+
+
+
 ## Concentration Visualization
 - How many cubic centimeters in a cubic meter?
 - Each cubic centimeter is one millionth of a cubic meter
 
-## Concentrations
-- What are examples of concentrations you think are important?
 
 ## Example: Blood Alcohol Concentration (BAC)
 
@@ -46,44 +60,56 @@ $$ BAC = \frac{\textrm{volume of alcohol}}
 <!-- 3 liters of blood in a human -->
 <!-- 3 liters * 0.0008 = 0.0024 liters = 2.4 ml  -->
 
+How much pure ethyl alcohol is in the average blood stream at the legal
+limit?
+
 ## Example: Carbon Dioxide
 
 $$  \frac{\textrm{volume carbon dioxide}}
          {\textrm{volume of atmosphere}} $$
 
-## Bathtub model of atmosphere
-![Bathub Model of Atmosphere](../figures/carbon-bathtub.jpg)
+We are currently at about 400 ppm.
 
-## Atmospheric CO2
-![](../figures/Carbon_Dioxide_400kyr_Rev.png)
+## Converting between concentrations
 
-## Carbon Dioxide
-- [Keeling Curve Website](http://keelingcurve.ucsd.edu/)
-- [Scripps Oxygen Measurements](http://scrippso2.ucsd.edu/)
+To convert between different types of fractions, you can use your
+existing intuition from percentages.  The main difference is that
+instead of parts per hundred, you will likely be using parts per million
+or billion.
 
-<!-- use cubic meter to visualize 400 ppm -->
-<!-- what is the size of a 400 ml cube? -->
+## Percentage Conversion
 
+If a concentration is 50 percent, what is the fraction (a number between
+1 and 0).
 
-## Review
-- What is a concentration
-- PPM
-- percentage
-- visualizations?
-- Homeopathic C scale dilutions
-- Ink dilution activity
-- Molarity
-- pH
-- check out written notes
+$$ 50\% = \frac{50\ parts}{100\ parts} = 0.5 $$
 
-## Molarity of mercury?
+## Parts Per Million Conversion
 
-## Molarity of soda?
+For the concentration of CO2 in the atmosphere, it is currently 400
+parts per million.
+
+$$ 400\ ppm = \frac{400 parts\ CO2}{10^6 parts air} = 0.0004 $$
+
+To convert this fraction to a percentage, we multiply the top and bottom
+by the number (100) that gives us 100 parts on the bottom.
+
+$$ 400\ ppm = 0.0004 = 0.0004 \frac{parts CO2}{1 part air}
+  \cdot \frac{10^2}{10^2} =
+   \frac{4 \cdot 10^{-2}}{10^2 parts}$$
+
+We can do the same but this time the number is $10^{-4}$ to give us a
+percentage.
+
+$$ 400\ ppm = \frac{400 parts CO2}{10^6 parts air}
+  \cdot \frac{10^{-4}}{10^{-4}} =
+   \frac{4 \cdot 10^{-2}}{10^2 parts}$$
+
 
 ## Dimensions and Units
 
 Concentrations are dimensionless but have specific physical meanings
-that you must keep track of
+that you must keep track of.
 
 
 <!-- list some concentrations in environmental literature -->
@@ -107,20 +133,32 @@ that you must keep track of
 <!-- - what if we are dripping pollution into a lake? -->
 <!-- - can we express this as a concentration as a function of time? -->
 
-## Topics
-- Concentrations
-- Stocks and flows
+# Changing Concentrations
+
+How does the concentration change if we add more of a pollutant over
+time?  We can add a linear model to our analysis.
 
 
-## Reading
-- Adding rates
-- Limiting examples
-<!-- does your answer hold when you use extreme examples for the rates? -->
-- Simplifying assumptions
-<!-- this is much of what this class is about -->
+## Limiting examples
 
-## Adding rates
-- Written notes
+
+
+
+# Examples
+
+## Bathtub model of atmosphere
+![Bathub Model of Atmosphere](../figures/carbon-bathtub.jpg)
+
+## Atmospheric CO2
+![](../figures/Carbon_Dioxide_400kyr_Rev.png)
+
+## Carbon Dioxide
+- [Keeling Curve Website](http://keelingcurve.ucsd.edu/)
+- [Scripps Oxygen Measurements](http://scrippso2.ucsd.edu/)
+
+<!-- use cubic meter to visualize 400 ppm -->
+<!-- what is the size of a 400 ml cube? -->
+
 
 ## Parts by volume and parts by mass
 - We model the atmosphere as an ideal gas
@@ -135,5 +173,22 @@ that you must keep track of
 - How much does one mole of carbon dioxide weigh?
 - Our atmosphere weighs 29 grams for every mole
 
+# Activities
 
+## ETC Carbon Dioxide Concentration
+
+During class, the ETC CO2 concentration increases.  Is it increasing at
+the rate you would expect?
+
+## Dilution Demonstration
+What is the concentration of a chemical by volume after a number of 100
+to 1 dilutions?  We demonstrate this with ink and water in a beaker
+
+For our 100 to 1 dilutions, the concentration is
+
+$$ 10^{-2\cdot\textrm{dilutions}} $$
+
+## Molarity of mercury?
+
+## Molarity of soda?
 
