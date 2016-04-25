@@ -1,3 +1,11 @@
+# Introduction
+
+The stock and flow model is a simple but powerful model with broad
+relevance.
+Anything with inputs and outputs and an overall level is appropriate.
+The carbon dioxide in the atmosphere and the amount of money in a bank
+account are good examples.
+
 ## Stocks and flows
 - Bath tub model
 - Steady state
@@ -10,12 +18,16 @@
 ## Bath tub model
 - Flow in
 - Flow out
+- Level of water in the tub
+
+## Atmospheric CO2 Bathtub Model
+![](./figures/CMI-bathtub-flows.png)
+
+
+![](./figures/CMI-bathub-stocks.png)
 
 ## Steady State
 - Level in bathtub is steady
-
-## Residence time
-- How long does something remain in the bath tub
 
 ## Brainstorm
 - What things could be modeled with this
@@ -25,6 +37,13 @@
 <!-- carbon dioxide -->
 <!-- students in the university -->
 
+
+## Residence time
+- How long does something remain in the bath tub?
+
+## Adding rates
+- What happens with two faucets?
+<!-- see written notes lecture 21 2014 -->
 
 
 ## Carbon dioxide Activity
