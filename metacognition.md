@@ -57,20 +57,25 @@ with practice.
 It is important to recognize that computers are able to perform many
 tasks that fall into the lower levels of this taxonomy.
 
-# Critical Thinking
+## Learning and Effort
 
-There are several important concepts from critical thinking that we will
-use in this class.
+To get do the desired outcome of learning you need to devote time and attention to learning.
+There are two main contributions to your learning, the learning in class, and your study outside of class.
+The efficiency with which you approach each of these maximizes the amount of learning from each.
+At the risk of oversimplifying a complex topic
 
-## The Principle of Charity
+desired learning = class learning + study learning
 
-- Consider an argument to be rational and worthy of exploration
-- If we see an quantitative analysis we disagree with, it is only through
-    understanding it that we can seek to find its flaws
+We can expand both of these and look at how efficiently we use our time
 
-## Rival Causes
+desired learning = class time x class focus + study time x study focus
 
-- The first explanation is not always the correct one
-- Rival causes are plausible reasons for observing the same outcome
-- It is often useful to examine multiple rival causes to see which one
-    is the best explanation
+Using algebra to isolate study time, which most students want to minimize,
+
+study time = (desired learning - class time * class focus) / study focus
+
+Crudely, for a desired learning outcome, you can decrease the time you must spend studying by increasing your focus during class and during study.
+
+<!-- dustin bakkie, epic higher ed -->
+<!-- thomas frank, college info geek -->
+
