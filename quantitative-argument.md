@@ -1,5 +1,11 @@
 # Arguments
 
+Our scientific progress and the strength of our democracy our based on a shared understanding of how the world is.
+Many of these claims about the world are based in quantitative evidence.
+We are also seeing that people are putting deliberately false but plausible news on the web because it will earn them money.
+How will you use your knowledge of mathematics to sharpen your critical thinking and separate falsehoods from legitimate reporting?
+Will you be able to look at quantitative data and see any problems of justice that the data show?
+
 You are frequently presented with arguments persuading you to think,
 act, spend, or vote in a certain way.  How will you evaluate the
 validity of these arguments, especially when mathematics is involved?
@@ -9,6 +15,8 @@ validity of these arguments, especially when mathematics is involved?
 - Are the math claims made to support the argument valid?
 - What assumptions to these claims make?  Would you agree?
 - What alternate explanations are possible?
+
+
 
 ## Arguments
 
