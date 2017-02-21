@@ -126,7 +126,6 @@ ETC_ppm_per_minute / ppm_per_person_per_minute  => 12.369 person
 ## Water sankey diagram
 ![LLNL Water Flows CA](./figures/calflow.png)
 
-
 ## Board Notes
 ![](./figures/ENSP-202-SF-1.JPG)
 
