@@ -60,8 +60,8 @@ A more complete list can be found here:
 |kilo | thousand | 10$$^3$$ |
 |mega | million  | 10$$^6$$ |
 |giga | billion  | 10$$^9$$ |
-|tera | trillion | 10$$^12$$ |
-|peta | quadrillion | 10$$^15$$ |
-|exa  | quintillion | 10%%^18$$ |
+|tera | trillion | 10$$^{12}$$ |
+|peta | quadrillion | 10$$^{15}$$ |
+|exa  | quintillion | 10$$^{18}$$ |
 
 
