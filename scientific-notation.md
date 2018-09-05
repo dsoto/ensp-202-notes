@@ -51,6 +51,11 @@ $$ c \cdot 10^a \cdot d \cdot 10^b = c \cdot d \cdot 10^{a+b} $$
 
 ## Common Powers
 
+Notice that these prefixes correspond to english language quantities you are already familiar with.
+You often express large numbers verbally, so there isn't much new to learn to use metric prefixes or scientific notation.
+
+For example, 1 billion joules is the same as a gigajoule is the same as $$ 1 \cdot 10^{9} $$ joules is the same as 1,000,000,000 joules.
+
 A more complete list can be found here:
 
 [Wikipedia Metric Prefixes](https://en.wikipedia.org/wiki/Metric_prefix)
