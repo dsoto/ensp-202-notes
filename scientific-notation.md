@@ -1,8 +1,7 @@
 ## Scientific Notation
 
 - Allows us to compactly write very large or very small numbers
-- Creates a shorthand that allows us to simplify calculation and avoid
-    errors
+- Creates a shorthand that allows us to simplify calculation and avoid errors
 
 ## Orders of magnitude
 - Powers of ten
@@ -49,6 +48,20 @@ $$ 10^a \cdot 10^b = 10^{a+b} $$
 
 $$ c \cdot 10^a \cdot d \cdot 10^b = c \cdot d \cdot 10^{a+b} $$
 
-See written notes
+
+## Common Powers
+
+A more complete list can be found here:
+
+[Wikipedia Metric Prefixes](https://en.wikipedia.org/wiki/Metric_prefix)
+
+|     |          |        |
+|-----|----------|--------|
+|kilo | thousand | 10$$^3$$ |
+|mega | million  | 10$$^6$$ |
+|giga | billion  | 10$$^9$$ |
+|tera | trillion | 10$$^12$$ |
+|peta | quadrillion | 10$$^15$$ |
+|exa  | quintillion | 10%%^18$$ |
 
 
