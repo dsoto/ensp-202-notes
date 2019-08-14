@@ -3,7 +3,6 @@
 * [Estimations and Models](estimations-and-models.md)
     * [Models](models.md)
     * [Quantitative Argument](quantitative-argument.md)
-    * [Metacognition](metacognition.md)
 * [Quantities](quantities.md)
     * [Uncertainty](uncertainty.md)
 * [Number Systems](number-systems.md)
@@ -21,3 +20,4 @@
 * [Statistics](statistics.md)
     * [Appendix](estimation-appendix.md)
     * [Appendix](big-picture-appendix.md)
+* [Metacognition](metacognition.md)

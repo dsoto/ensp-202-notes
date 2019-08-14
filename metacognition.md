@@ -21,8 +21,8 @@ different from mathematics as you understand it?
 
 - Are you comfortable with mathematics?
 - Do you think your abilities can improve with effort and practice?
-- When you make important financial decisions, will you try to
-    understand the details?
+- Do you think that improving your mathematical abilities will help you in the future?
+- When you make important financial decisions, will you try to understand the details?
 
 ## Grit, Mindset, Effort
 
@@ -126,30 +126,10 @@ see the
 [similarity between many popular
 songs.](https://www.youtube.com/watch?v=QpB_40hYjXU)
 
-## Limits of Quantitative Reasoning
-
-- Mathematics can only describe the world as it is
-- It isn't a good tool for claims about how it should be
-- Positive statements are about how the world is
-- Normative statements are how we think the world should be
-
-## Learning objectives
-
-- Increase your confidence using mathematics
-- Able to use mental and mathematical models
-- Quantitative critical thinking
-
 ## Knowledge and Skills
 
-- You will gain very little knowledge in this class since we will be
-    using mathematics you have already learned
-- You will gain many new skills in applying your existing mathematics to
-    problems
-
-## Using Computers
-
-We will learn to use computers to perform and communicate our
-estimations and mathematical arguments.
+- You will gain very little knowledge in this class since we will be using mathematics you have already learned
+- You will gain many new skills in applying your existing mathematics to problems
 
 
 
