@@ -112,6 +112,12 @@ print('My estimate: ', estimate)
 > My estimate: 20
 ```
 
+## Error Messages
+
+Be warned, this work can be very frustrating.
+
+![The author working on a computation.](laptop-throw.gif)
+
 # Jupyter Concepts
 
 - Markup and Markdown
