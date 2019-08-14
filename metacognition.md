@@ -1,3 +1,5 @@
+Math is like an atomic-powered prosthesis that you attach to your common sense, vastly multiplying its reach and strength. -- Jordan Ellenberg, How Not To Be Wrong
+
 # Metacognition
 
 The ability to quickly estimate a quantity is an art and an excellent way to sharpen your quantitative intuition.
