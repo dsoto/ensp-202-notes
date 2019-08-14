@@ -2,6 +2,8 @@
 
 We will learn how to create simple models that enable us to gain insight
 into the problem we are investigating.
+You also usually can not estimate your quantity directly, but must instead break down your estimate into other smaller estimation problems that can be tackled individually.
+We will start with simple estimations and then move on to estimations that require more planning.
 
 - A simplified representation of a problem we'd like to solve
 - A model is an approximation that allows us to think about the world

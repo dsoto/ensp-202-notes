@@ -1,6 +1,7 @@
 # Metacognition
 
-An important part of mastering mathematics is the ability to diagnose
+The ability to quickly estimate a quantity is an art and an excellent way to sharpen your quantitative intuition.
+An important part of mastering this technique is the ability to diagnose
 your own understanding.  This allows you to place your efforts and
 questions into the parts of your abilities that need practice.
 
@@ -10,6 +11,11 @@ questions into the parts of your abilities that need practice.
 
 Much of your success will depend on your beliefs about your ability to learn and improve through effort.
 Research has shown that those who believe that they can improve their abilities through practice are able to persevere through tough times and get better at tough tasks like mathematics.
+
+For example, what does it mean to think mathematically?  How is applied
+mathematics -- using math to tackle problems --
+different from mathematics as you understand it?
+
 
 ## Do you believe you are a "math person"
 
