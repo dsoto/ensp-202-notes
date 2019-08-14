@@ -116,7 +116,7 @@ print('My estimate: ', estimate)
 
 Be warned, this work can be very frustrating.
 
-![The author working on a computation.](laptop-throw.gif)
+![The author working on a computation.](figures/laptop-throw.gif)
 
 # Jupyter Concepts
 
