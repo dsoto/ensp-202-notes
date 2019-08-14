@@ -1,5 +1,6 @@
 # Quantitative Methods
 
+* [Estimations and Models](estimations-and-models.md)
 * [Big Picture](big-picture.md)
     * [Motivation](motivation.md)
     * [Quantitative Argument](quantitative-argument.md)
