@@ -5,7 +5,7 @@
     * [Quantitative Argument](quantitative-argument.md)
 * [Quantities](quantities.md)
     * [Uncertainty](uncertainty.md)
-* [Number Systems](number-systems.md)
+* [Place Value and Scientific Notation](number-systems.md)
     * [Place Value](place-value.md)
     * [Scientific Notation](scientific-notation.md)
 * [Computation Fundamentals](computation-fundamentals.md)
