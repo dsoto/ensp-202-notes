@@ -44,6 +44,10 @@ its position is always important.
 - In decimal we call it "5"
 - In binary we call it "101"
 
+## Our Base 10 System
+
+![](./figures/place-value.png)
+
 ## What if you only have eight fingers?
 ![](./figures/eight-fingers.png)
 
@@ -76,8 +80,6 @@ graphic design.
 ##
 ![](./figures/place-value-representations.png)
 
-##
-![](./figures/place-value.png)
 
 
 # Hand Calculation Algorithms
