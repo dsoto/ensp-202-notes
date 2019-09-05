@@ -9,6 +9,8 @@
     * [Place Value](place-value.md)
     * [Scientific Notation](scientific-notation.md)
 * [Computation Fundamentals](computation-fundamentals.md)
+    * [Small Calculations](small-calculations.md)
+    * [Larger Calculations](larger-calculations.md)
     * [Computation](computation.md)
 * [Common Functions](common-functions.md)
     * [Linear Functions](linear.md)
