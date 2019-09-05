@@ -5,6 +5,17 @@ computations.  You likely have lots of practice on calculators.  There
 are significant similarities between the calculator and the computer but
 there are some important differences.
 
+# Computers and Humans
+
+Be warned, this work can be very frustrating.
+To use computers effectively, we have to think in unfamiliar ways.
+The tools are very powerful but it can be difficult to find mistakes in your work.
+
+![The author working on a computation.](figures/thinking.gif)
+
+![The author moving on to another problem.](figures/laptop-throw.gif)
+
+
 # Materials
 
 You can find an interactive set of files
