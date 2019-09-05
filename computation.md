@@ -112,15 +112,6 @@ print('My estimate: ', estimate)
 > My estimate: 20
 ```
 
-## Error Messages
-
-Be warned, this work can be very frustrating.
-The tools are very powerful but it can be difficult to find mistakes in your work.
-
-![The author working on a computation.](figures/thinking.gif)
-
-![The author moving on to another problem.](figures/laptop-throw.gif)
-
 # Jupyter Concepts
 
 - Markup and Markdown
