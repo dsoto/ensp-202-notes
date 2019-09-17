@@ -19,6 +19,75 @@ mathematics -- using math to tackle problems --
 different from mathematics as you understand it?
 
 
+
+## Study Strategies
+
+What does science tell us about how to study for your midterm?
+
+- Sleep
+- Retrieval Practice
+- Elaborative Interrogation
+- Spaced Practice
+- Stress can help your performance
+
+## Study Strategies
+
+- This science on learning and psychology is still emerging
+- What are the costs and benefits of changing your behavior based on this science?
+
+## Stress Reappraisal
+
+- An experiment showed exam improvement based on student interpretation of stress
+- [Jamieson, Reappraising Stress Arousal](https://files.eric.ed.gov/fulltext/ED566260.pdf)
+- [Allison Brooks, Reappraising anxiety...](https://www.ncbi.nlm.nih.gov/pubmed/24364682)
+
+## Sleep
+
+- Sleep is correlated with academic performance
+- [Article, Journal of Clinical Sleep Medicine](http://jcsm.aasm.org/ViewAbstract.aspx?pid=29834&_ga=2.186775339.2055626070.1537371216-2126297393.1537371216)
+- [Williamson, Sleep Deprivation equivalent to 0.05 BAC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1739867/)
+- [Sleep Study News Article](https://www.fastcompany.com/3057465/why-six-hours-of-sleep-is-as-bad-as-none-at-all)
+- [Sleep Study Research Journal Article](https://www.ncbi.nlm.nih.gov/pubmed/12683469)
+
+
+## Retrieval Practice
+
+- Studying is the practice of storing ideas in your memory
+- Testing requires you to retrieve ideas from your memory
+
+## Retrieval Practice
+
+- Rereading materials trains the brain in storing information, not retrieving it
+- Asking and answering questions, flashcards, and other techniques practice retrieval
+- [Article, Memory](https://www.ncbi.nlm.nih.gov/pubmed/24059563)
+
+## Elaborative Interrogation
+
+- This is a method of generating deeper questions about the material and answering them
+- This can be done well with other students
+- We will expect you to understand subtle points of our concepts
+
+## Spaced Practice
+
+- Your learning will be deeper if you space your study over the next few days
+- You will be better served by
+- This requires discipline and time management
+- [Article, Learning and Instruction](https://www.sciencedirect.com/science/article/pii/S0959475214001042)
+
+## Study Strategies
+
+- Science, evidence, and our decisions revisited
+- This science on learning and psychology is still emerging
+- What are the costs and benefits of changing your behavior based on this science?
+
+## Links
+
+- [The Learning Scientists Podcast](http://www.learningscientists.org/podcast-episodes/)
+- [College Info Geek](https://collegeinfogeek.com/)
+- [Book: How to Become a Straight-A Student](http://calnewport.com/books/straight-a-student/)
+
+
+
 ## Do you believe you are a "math person"
 
 - Are you comfortable with mathematics?
