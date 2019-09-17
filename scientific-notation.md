@@ -48,6 +48,11 @@ $$ 10^a \cdot 10^b = 10^{a+b} $$
 
 $$ c \cdot 10^a \cdot d \cdot 10^b = c \cdot d \cdot 10^{a+b} $$
 
+$$ \frac{10^a}{10^b} = 10^{a-b} $$
+
+$$ \frac{c \cdot 10^a}{d \cdot 10^b} = \frac{c}{d} \cdot 10^{a-b} $$
+
+You can combine these rules if you are multiplying and dividing several numbers in scientific notation.
 
 ## Common Powers
 
