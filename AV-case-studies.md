@@ -34,11 +34,11 @@ circumference of 5 wingspans
 
 $$ 5 wingspans\ \cdot \frac{5 feet}{wingspan} = 25 feet$$
 
-Since $C = 2\pi r$, the radius is
+Since $$C = 2\pi r$$, the radius is
 
 $$ r = \frac{25 feet}{2\cdot3.14} = 4.0 feet $$
 
-Now we find the area from $A = \pi r^2$.
+Now we find the area from $$A = \pi r^2$$.
 
 $$ A = 3.14 \cdot (4 feet)^2 = 50 square feet $$
 
