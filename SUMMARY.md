@@ -14,7 +14,7 @@
     * [Computation](computation.md)
 * [Linear Functions](linear.md)
 * [Area and Volume](area-volume.md)
-    [Case Studies](AV-case-studies.md)
+    * [Case Studies](AV-case-studies.md)
 * [Metacognition](metacognition.md)
 * [Common Functions](common-functions.md)
     * [Exponential](exponential.md)
