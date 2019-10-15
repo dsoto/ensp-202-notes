@@ -1,15 +1,15 @@
 # Exponential
 
 The word exponential makes this concept sound unnecessarily difficult.
-If a function is exponential, the relative difference between any two
-evenly spaced values is the same, anywhere on the graph.  This is
-similar to linear functions where the absolute difference between any
-two values separated by the same x-axis distance is the same.
 
-If you plot something on a log axis, you will notice that the distance
-between any two numbers with the same ratio is the equal.  This
-preservation of the size of a ratio is the key feature of logarithms and
-exponentials.
+A simple definition is that exponential models arise when the change in a quantity is proportional to the amount of the quantity.
+That is, the slope of an exponential function at any point is equal to the value of the function at any point multiplied by a number.
+
+If a function is exponential, the relative difference between any two evenly spaced values is the same, anywhere on the graph.
+This is similar to linear functions where the absolute difference between any two values separated by the same x-axis distance is the same.
+
+If you plot something on a log axis, you will notice that the distance between any two numbers with the same ratio is the equal.
+This preservation of the size of a ratio is the key feature of logarithms and exponentials.
 
 <!-- do I have an good illustration of this already? -->
 
@@ -63,7 +63,6 @@ $$ 1000 \cdot (1+0.10)^{years} $$
 ## Doubling
 ![](./figures/doubling.png)
 
-
 ## Doubling Time
 
 Exponential growth means that if you measure how long it takes a
@@ -80,6 +79,8 @@ the same.
 This is in contrast to linear growth where if you wait for the amount to
 increase by a fixed amount, the amount will always increase by that
 fixed amount in that amount of time.
+
+For linear growth, the slope of the function is a number that does not change along the function.
 
 ![](./figures/linear-growth.png)
 
@@ -110,15 +111,13 @@ year?
 - A quantity loses the same fraction of itself for a given time interval
 - Nuclear waste
 - Toxins in a body
-
-
+- The water in a stream (baseflow)
 
 
 # Logarithm
 
 ## Inverse functions
-- Recall that the square root and the cube root were the inverse of the
-    squared function and the cube function
+- Recall that the square root and the cube root were the inverse of the squared function and the cube function
 
 ## Logarithm
 - The inverse of exponentiation is the logarithm
@@ -167,8 +166,7 @@ come close to the value for y.
 
 $$ y = \beta e^x $$
 
-# Misc
-
+# Miscellaneous Stuff
 
 # Unexpected connections
 
@@ -250,12 +248,3 @@ This number expresses the time it takes for an exponential function to
 increase by a certain fraction.
 
 $$ e^{t/\tau} $$
-
-# Activities
-
-## Estimate the global growth rate
-
-## How many times can you fold a piece of paper?
-
-## What is the growth rate of solar energy in the US?  Worldwide?
-
