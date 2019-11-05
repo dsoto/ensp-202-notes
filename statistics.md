@@ -1,221 +1,84 @@
 # Statistics
 
-- Statistics helps us quantify uncertainty
-- Helps us infer about a large population from a small sample
+So far we have learned how to estimate or model a single thing or event.
+Statistics gives us tools to understand multiple measurements from a group of objects.
 
-## Questions that use Statistics
+We will focus on the application of statistics to problems of environment and environmental justice.
+Particularly, statistics allows us to elucidate patterns and provide evidence of the causes.
 
-- How many organisms use Copeland Creek as habitat?
-- How dangerous is driving?
-- Is gender or racial bias an observable problem?
-- What is the average class size at SSU?  What is your average class size?  Are they different?
+We will be using two data sets from California to ask questions and gather evidence.
 
-## Topics
+- CalEnviroScreen 3.0
+- Cal Adapt
 
-- Supporting questions and decisions
-- Probability
-- Probability Distributions
-- Hypothesis testing
+We'll start with a brief discussion of causality.
 
-## Decision making
-- How do we make decisions when we cannot predict the outcome?
-- How do you decide to bring an umbrella?
+# Causality
 
-## Probability
-$$ \textrm{probability} =
-   \frac{\textrm{specific outcome}}
-        {\textrm{all outcomes}} $$
+Here are a few questions that require the establishment of causality:
 
-## Odds
+- Does pollution cause health problems?
+- Do green taxes reduce pollution?
+- Is discrimination contributing to health problems?
 
-$$ \textrm{odds} =
-   \frac{\textrm{specific outcome}}
-        {\textrm{other outcomes}} $$
+## Establishing Causality
 
-If something has 1:1 odds, this means a 50% probability.
+To establish evidence of causality, we need to establish three factors
 
-## Area representation of probabilities
+- Association
+- Time order
+- Non-spuriousness and mechanism
 
-- attach white board images
+## Association
 
-<!-- add tree representation? -->
+The association between two measured quantities is quantified by correlation.
+This correlation is a key tool provided by statistics.
 
-## Contingency table representation
+## Time order
 
-| Treatment     | Rash got better | Rash got worse |
-|---------------|-----------------|----------------|
-| Skin Cream    | 223             | 75             |
-| No skin cream | 107             | 21             |
+The cause must occur before the observed effect.
 
-We can ask several questions using this data
+## Mechanism
 
-- If you use skin cream, what is the probability your rash will get better?
-- If you do not use skin cream, what is the probability your rash will get better?
-- If your rash got better, what is the probability you used skin cream?
-- If your rash got worse, what is the probability you used skin cream?
+The association must have some mechanism that explains how the cause could lead to the effect.
 
-## Hypothesis testing
+If we do not have a mechanism, it is possible that we have a spurious (false) relationship.
 
-- Given your favored hypothesis, what would the world look like?
-- Given the alternate hypothesis, what would the world look like?
-- Based on your data, which of the two hypotheses is more likely?
+## Spurious relationships
 
-## Conceptual probability
-- For many things, we cannot predict a single outcome, but we can
-  predict the average outcome
-- Coin toss
-- Roll of dice
+Spurious relationships can have associations and time order but no mechanism to link them.
+They often are both related to another more important variable.
 
-<!-- Although we can't predict a single flip or roll, we know what percentage -->
-<!-- of heads or tails we will observe over many flips. -->
+Examples:
 
-# Rolling Dice
+- Ice cream and violent crime.
+- Breath mints and lung cancer.
 
-- We don't know what any outcome of a roll will be
-- However, we know with high confidence what the total number of outcomes for many rolls of the dice will be.
+## Causality Revisited
 
+So statistics provides evidence of a time-order and an association, but we must often rely on a branch of science to suggest a mechanism.
 
-## Rolling computer dice
+Biochemistry might show that a chemical damages human tissue in a way that could lead to disease.
 
-- We can easily simulate these sorts of experiments with computers
 
-## Notebooks
-- 202-dice-distribution.ipynb
-- 202-synthetic-dice-distribution.ipynb
+# Types of Studies
 
-# Bayes' Theorem
+## Field Work
 
-Bayes theorem allows us to determine the probability of a given hypothesis being true given the data if we know the probability of the data being true given the hypothesis.
+These are studies in the "real world".
 
-$$ P(A|B) = \frac{P(B|A)P(A)}{P(B)} $$
+## Laboratory Studies
 
-The posterior odds are equal to the prior odds multiplied by the likelihood ratio
+These are studies in laboratories that attempt to simulate parts of our world or environment.
 
-$$ \frac{P(H_1 | D)}{P(H_2 | D)}
-   =  \frac{P(D | H_1)}{P(D | H_2)}
-     \frac{P(H_1)}{P(H_2)} $$
+## Cross-sectional Study
 
-<!-- what is a source for this odds ratio formulation? -->
+A study that looks at a number of individuals (population) at a specific point in time.
 
-# Probability distributions
+Usually tries to use random methods to reflect the entire population.
 
-- We interpret probabilities as the area under the curve
+## Longitudinal Study
 
-## Probability distribution
-- Some events are expressed as single probabilities
-- Other events are better described by a probability distribution
-- We can use our intuition about areas to make probability estimates
+A study that measures something over a long period of time.
 
-## Probability distribution examples
-- Temperature
-- Wind speed
-- Climate forecasts
-
-# Motivated Numeracy
-
-## Probability
-- How do we know if a treatment is effective?
-
-## Example: Rash treatment
-
-| Treatment     | Rash got better | Rash got worse |
-|---------------|-----------------|----------------|
-| Skin Cream    | 223             | 75             |
-| No skin cream | 107             | 21             |
-
-## Which was more effective?
-- Split into groups and determine why
-
-
-## Full experiment
-![](../figures/motivated-numeracy-2.pdf)
-
-
-
-## Motivated numeracy
-- Science Comprehension Thesis
-- Identity-protective Cognition Thesis
-- [Paper Link](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2319992)
-
-"more Numerate subjects would use their quantitative-reasoning capacity
-selectively to conform their interpretation of the data to the result
-most consistent with their political outlooks."
-
-## Experiment results
-- Performance on politically neutral issue correlated with numeracy
-- Highly numerate people with strong political beliefs found the answer
-  consistent with their political beliefs
-
-
-# Cancer Example
-
-## Cancer screening example
-
-<!-- see notes for more breast cancer details -->
-
-|            | positive test | negative test |
-|------------|---------------|---------------|
-| has cancer | 72            | 8             |
-| no cancer  | 694           | 9226          |
-
-- What should the rows add up to?
-- What should the columns add up to?
-- What should all four numbers add up to?
-
-
-## Questions
-
-- What questions can you answer with this data?
-
-
-## Cancer example as percentages
-
-|            | positive test | negative test |
-|------------|---------------|---------------|
-| has cancer | 90%           | 10%           |
-| no cancer  |  7%           | 93%           |
-
-- 0.8% of population has cancer
-- 99.2% of population is cancer free
-
-<!-- this needed major scaffolding -->
-<!-- students had a very hard time holding the pieces together -->
-<!-- students also seemed very disinterested late in the semester -->
-
-# Examples
-
-## Appliance Ownership
-
-Given appliance ownership in an electrified village, what would you expect for ownership in a village undergoing electrification?
-
-## Classroom Seating
-
-Given a class, what probability would you assign that you are sitting in your chair on any given day?
-
-## Extremely hot days
-
-The temperature in the summer in a location can be viewed as a probabliity distribution.
-From this distribution, can you estimate the number of very hot days in a summer?
-How would this number of hot days change under global warming?
-
-## People v. Collins
-
-- https://en.wikipedia.org/wiki/People_v._Collins
-- https://www.maa.org/external_archive/devlin/devlin_07_08_07.html
-
-## Random Kanye and Deep Drumpf
-
-# Activities
-
-## Evidence and Hypothesis
-
-State the evidence and competing hypotheses for questions that interest you.
-
-
-
-## Supplemental reading
-
-- Naked Statistics, Charles Wheelan
-- The Signal and the Noise, Nate Silver
-- Statistical Inference for Everyone, Brian Blais
-
+These studies often look for changes that can be related to an event or change in an environment.
