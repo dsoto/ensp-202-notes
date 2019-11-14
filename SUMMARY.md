@@ -20,6 +20,7 @@
     * [Probability Distributions and Gaussians](probability-distributions-and-gaussians.md)
     * [Populations and Samples](populations-and-samples.md)
     * [Linear Models with Gaussian Noise](linear-models-with-gaussian-noise.md)
+    * [CalEnviroScreen](calenviroscreen.md)
 * [Metacognition](metacognition.md)
 * [Common Functions](common-functions.md)
     * [Trigonometry](trigonometry.md)
