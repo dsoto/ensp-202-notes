@@ -25,6 +25,10 @@ Sampling is a group of techniques that allow us to measure a smaller sample that
 
 The use of a sample to determine the characteristics of the larger population.
 
+## Central Limit Theorem
+
+The more observations you have in your sample, the higher the probability that the mean of your observation will be close to the population mean.
+
 
 
 
