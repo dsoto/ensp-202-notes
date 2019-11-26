@@ -41,6 +41,8 @@ We also have evidence linking increased exposure to pollution to minority commun
 
 Taken together, these relationships lend evidence to the hypothesis that racism exposes different samples of our population based on race to environmental toxins differently and that these exposures cause social problems.
 
+Harriet Washington's book, A Terrible Thing to Waste has an excellent compilation of this evidence.
+
 # Hereditarian residue
 
 Many of us harbor beliefs that are based in a hereditarian hypothesis.
