@@ -21,6 +21,7 @@
     * [Populations and Samples](populations-and-samples.md)
     * [Linear Models with Gaussian Noise](linear-models-with-gaussian-noise.md)
     * [CalEnviroScreen](calenviroscreen.md)
+    * [Confounding Variables](confounding-variables.md)
 * [Metacognition](metacognition.md)
 * [Common Functions](common-functions.md)
     * [Trigonometry](trigonometry.md)
