@@ -21,12 +21,12 @@ Scholars have provided evidence that racism is a confounding factor since racism
 As early as the enlightenment, scholars hypothesized that humans were divided into races and that these races had essential qualities of intelligence and sociability.
 In 1969 Arthur Jensen wrote that genes cause IQ differences and that educational interventions would not succeed since they couldn't change genetics.
 
-This hypothesis assumes that race and/or genetics is the dependent variable and that intelligence and educational outcomes are the independent variable.
+This hypothesis assumes that race and/or genetics is the independent variable or cause and that intelligence and educational outcomes are the dependent variable or result.
 
 # Environmental Racism hypothesis
 
-This hypothesis holds that racism causes folks of different races to be exposed to different levels of environmental contaminants and that these contaminants are the independent variable.
-The dependent variable is intelligence and educational outcomes.
+This hypothesis holds that racism causes folks of different races to be exposed to different levels of environmental contaminants and that these contaminants are an independent variable or cause.
+The dependent variable is intelligence and educational outcomes caused by exposure to environmental contaminants.
 
 # Hereditarian evidence
 
@@ -39,7 +39,7 @@ After the book "A Troublesome inheritance" was published, 139 scientists signed 
 Solid epidemiological evidence exists for relationships between lead exposure and crime and intelligence.
 We also have evidence linking increased exposure to pollution to minority communities for decades in the United States.
 
-Taken together, these relationships lend evidence to the hypothesis that racism exposes different samples of our population based on race to environmental toxins differently and that these exposures cause social problems.
+Taken together, these relationships lend evidence to the hypothesis that racism exposes different samples of our population based on race to environmental toxins differently and that these exposures lead to differences in IQ and educational performance.
 
 Harriet Washington's book, A Terrible Thing to Waste has an excellent compilation of this evidence.
 
@@ -55,5 +55,6 @@ Social scientists have come up with measures of racial resentment and anti-immig
 These measures
 [have been shown using regression analysis to predict voting outcomes](https://www.thenation.com/article/economic-anxiety-didnt-make-people-vote-trump-racism-did/).
 
-The evidence strongly suggests that major patterns of american life are rooted in a hereditarian theory that is as spurious as ice cream sales and violent crime or breath mints and cigarette smoking.
+The evidence strongly suggests that major patterns of american life are rooted in a hereditarian theory that is as spurious as believing increased ice cream sales cause violent crime or that the use of breath mints leads to lung cancer.
+All of these are examples of confounding variables.
 
