@@ -1,8 +1,8 @@
 # Quantitative Methods
 
 * [Estimations and Models](estimations-and-models.md)
-    * [Models](models.md)
     * [Quantitative Argument](quantitative-argument.md)
+    * [Models](models.md)
 * [Quantities](quantities.md)
     * [Uncertainty](uncertainty.md)
 * [Place Value and Scientific Notation](number-systems.md)
