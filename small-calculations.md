@@ -45,6 +45,9 @@ $$ 1 + 2 - 3 = 1 - 3 + 2 $$
 
 $$6 \cdot 10^3$$ is entered as ``6E3``.
 
+This key is often on a calculator as "E" or "EE".
+It is much easier and less error-prone to use this instead of "6 * 10 x^y 3".
+
 ## Know your calculator
 
 $$ 1 + 2 * 3 = ? $$
