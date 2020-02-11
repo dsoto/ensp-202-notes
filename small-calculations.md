@@ -56,5 +56,7 @@ The answer can vary with your calculator...
 
 # Calculators
 
+There are calculator apps online that are much better for calculations than the iOS and Android default applications.
+
 [Geogebra Sci Calc](https://www.geogebra.org/calculator?lang=en)
 
