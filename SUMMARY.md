@@ -16,6 +16,7 @@
 * [Area and Volume](area-volume.md)
     * [Case Studies](AV-case-studies.md)
 * [Exponential Functions](exponential.md)
+    * [Exponential Computations](exponential-computations.md)
 * [Statistics](statistics.md)
     * [Probability Distributions and Gaussians](probability-distributions-and-gaussians.md)
     * [Populations and Samples](populations-and-samples.md)
