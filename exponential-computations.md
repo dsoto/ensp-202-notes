@@ -9,10 +9,10 @@ If we want to find the amount or population at a certain time or other independe
 
 $$ population = P_0 e^{at}$$
 
-- $P_0$ is the population when $t=0$.
-- $a$ tells us how fast the population is growing.
-- $t$ is the time.
-- We have to be certain that the units for $a$ and $t$ match.
+- $$P_0$$ is the population when $$t=0$$.
+- $$a$$ tells us how fast the population is growing.
+- $$t$$ is the time.
+- We have to be certain that the units for $$a$$ and $$t$$ match.
 
 # Inverse or Logarithm
 
