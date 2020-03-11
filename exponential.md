@@ -13,6 +13,54 @@ This preservation of the size of a ratio is the key feature of logarithms and ex
 
 <!-- do I have an good illustration of this already? -->
 
+# Concepts
+
+- Euler's Number
+- Exponential notation
+- Place value
+- Slope proportional to the value
+- Doubling time
+
+# Euler's number
+
+The following things are true about Euler's number ($$e$$) 
+
+$$e = 2.71828...$$
+
+$$e = (1 + \frac{1/x})^x$$ as $$x$$ goes to infinity.
+
+$$e = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + ...$$
+
+
+## Exponential notation
+
+You've probably seen notation like $x^2$ or $x^3$ several times before.
+In exponential notation, our symbol for a variable, $$x$$ is in the exponent.
+
+For example $$2^x$$ or $$3^x$$.
+
+Recall that $$1 = 2^0$$, $$2 = 2^1$$, $$2 \cdot 2 = 2^2 = 4$$, etc.
+So, $$2^x$$ means to multiply 2 by itself x times.
+
+## Place Value
+
+Recall from place value, that if we were using a base 2 system, each of these multiplications would be the same as shifting numbers one place to the left.
+
+## Slope proportional to function value
+
+The exponential is defined as a function whose slope is proportional to its value.
+
+The function that is exactly equal to its slope is $$y = e^x$$.
+
+## Doubling Time
+
+A property of an exponential function, is that in a given interval of time, the value increases by a fixed ratio.
+
+So, if the function doubles over a time, let's call it $$t$$, if we wait for a time $$t$$ at any time, the value of the function doubles.
+
+
+
+
 # Examples
 
 ## Folding paper
@@ -143,6 +191,7 @@ The logarithm in base 10 basically asks, if you are in base 10, how many digits?
 In each of these, we perceive or use the logarithm.
 
 ## This rule is a consequence of logarithms
+
 $$ 10^a \cdot 10^b = 10^{a+b} $$
 
 Take log of both sides
