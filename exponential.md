@@ -297,11 +297,3 @@ This number expresses the time it takes for an exponential function to
 increase by a certain fraction.
 
 $$ e^{t/\tau} $$
-
-:fire:
-
-🔥
-
-$$e^{:fire:}$$
-
-$$e^{🔥}$$
