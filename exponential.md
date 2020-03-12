@@ -23,7 +23,7 @@ This preservation of the size of a ratio is the key feature of logarithms and ex
 
 # Euler's number
 
-The following things are true about Euler's number ($$e$$) 
+The following things are true about Euler's number ($$e$$)
 
 $$e = 2.71828...$$
 
@@ -297,3 +297,7 @@ This number expresses the time it takes for an exponential function to
 increase by a certain fraction.
 
 $$ e^{t/\tau} $$
+
+:fire:
+
+$$e^{:fire:}$$
