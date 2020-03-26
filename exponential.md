@@ -27,7 +27,7 @@ The following things are true about Euler's number ($$e$$)
 
 $$e = 2.71828...$$
 
-$$e = (1 + \frac{1/x})^x$$ as $$x$$ goes to infinity.
+$$e = (1 + \frac{1}{x})^x$$ as $$x$$ goes to infinity.
 
 $$e = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + ...$$
 
