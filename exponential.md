@@ -34,7 +34,7 @@ $$e = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + ...$$
 
 ## Exponential notation
 
-You've probably seen notation like $x^2$ or $x^3$ several times before.
+You've probably seen notation like $$x^2$$ or $$x^3$$ several times before.
 In exponential notation, our symbol for a variable, $$x$$ is in the exponent.
 
 For example $$2^x$$ or $$3^x$$.
