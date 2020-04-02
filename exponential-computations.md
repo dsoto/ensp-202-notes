@@ -46,6 +46,6 @@ $$\frac{y}{A} = e^{b \cdot t}$$
 
 At this point we can take the logarithm of both sides since the logarithm is the inverse of the exponential function.
 
-$$ \log(y/A) = log(e^b \cdot t) = b \cdot t$$
+$$ \log(y/A) = log(e^{b \cdot t}) = b \cdot t$$
 
 $$ t = \frac{\log(y/A)}{b}$$
