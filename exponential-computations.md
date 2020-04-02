@@ -32,3 +32,20 @@ To go up and to the left, we use the exponent.
 To go right and down, we are using the inverse.
 
 ![](./figures/exponential/exponential-and-inverse.png)
+
+
+# Inverting a Logarithm
+
+You may have the equation below and want to find t.
+
+$$y=A e^{b\cdot t}$$
+
+Your strategy is to manipulate the equation so that you can use the inverse.
+
+$$\frac{y}{A} = e^{b \cdot t}$$
+
+At this point we can take the logarithm of both sides since the logarithm is the inverse of the exponential function.
+
+$$ \log(y/A) = log(e^b \cdot t) = b \cdot t$$
+
+$$ t = \frac{\log(y/A)}{b}$$
