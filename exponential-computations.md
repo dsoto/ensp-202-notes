@@ -33,6 +33,16 @@ To go right and down, we are using the inverse.
 
 ![](./figures/exponential/exponential-and-inverse.png)
 
+# Inverses
+
+Note that the logarithm and exponential are inverses of each other.
+
+$$\log e^x = x$$
+
+$$e^{\log x} = x$$
+
+Where in this case, log means the natural log.
+
 
 # Inverting a Logarithm
 
