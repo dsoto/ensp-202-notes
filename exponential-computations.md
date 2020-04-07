@@ -52,7 +52,7 @@ $$ t = \frac{\log(y/A)}{b}$$
 
 # Computation
 
-Note that the natural log is used to invert $e^x$, while the base 10 log is used to invert $10^x$.
+Note that the natural log is used to invert $$e^x$$, while the base 10 log is used to invert $$10^x$$.
 
 On calculators and computers, the natural log is referred to as `ln` or `log` while the base 10 log is referred to as `log` or `log10`.
 
