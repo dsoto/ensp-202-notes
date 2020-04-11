@@ -23,6 +23,9 @@ A histogram
 - Divides the x-axis into evenly spaced bins
 - On the y-axis shows the number of values in each bin
 
+![State Areas](./figures/statistics/state-area-histogram.png)
+
+![State Populations](./figures/statistics/state-population-histogram.png)
 
 ## Probability Distribution
 
