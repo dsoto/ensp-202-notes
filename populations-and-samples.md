@@ -21,6 +21,10 @@ Sampling is a group of techniques that allow us to measure a smaller sample that
 
 The use of a sample to determine the characteristics of the larger population.
 
+## Hypothesis Testing
+
+The practice of determining whether an observed difference is due to random fluctuations or the experiment (drug, education, etc).
+
 ## Statistical Significance
 
 A measure of the probability that the mean of a random sample from a subpopulation was randomly drawn from the larger population.
