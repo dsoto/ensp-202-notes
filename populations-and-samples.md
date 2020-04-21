@@ -17,7 +17,7 @@ Measuring a few individuals from a population to get a sense of the whole.
 Often it is prohibitively expensive or time-consuming to measure all of the members of a population.
 Sampling is a group of techniques that allow us to measure a smaller sample that reflects the overall population.
 
-## Inference
+## Statistical Inference
 
 The use of a sample to determine the characteristics of the larger population.
 
@@ -39,16 +39,8 @@ This is the difference in the mean between an original distribution and the dist
 
 The more observations you have in your sample, the higher the probability that the mean of your observation will be close to the population mean.
 
-
 ## Descriptive Statistics
 
 Techniques used to characterize the measurements of a collection.
 
 Mean, median, and standard deviation fall in this category.
-
-
-
-
-
-
-
