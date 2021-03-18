@@ -21,6 +21,24 @@ What are the largest and smallest values?
 - Quantitative Continuous data has a numerical value and can take any value
     - Example: length, mass, number of people
 
+## Characterizing a body of data
+
+We often ask two questions about data.  The first is what is the central tendency or do the data point to some sort of majority value.  The second is how tightly clustered are the data.  Does the data range widely?
+
+## Mean or Average
+
+A common measure of the central tendency is the mean.
+If we take a list of data, sum the values, and divide by the number of data we get the mean or the average.
+
+## Median
+
+Another measure of the central tendency is the median.
+The median is the value at which half the data has a value below the median and half the data has a value above it.
+
+## Standard Deviation
+
+The standard deviation is a measure of how dense or spare the data are around the central tendency.
+
 ## Histogram
 
 A common tool for looking at single-variable (univariate) data is a histogram.
@@ -62,3 +80,9 @@ Notice our new friend, the number e, showing up.
 ## Relative probability
 
 If you can calculate or estimate the area under the curve of a probability distribution, you can predict the probability of an event occurring.
+
+## Percentile
+
+As we ask about the relative probabilities in a distribution, we use the percentile.
+The Xth percentile is the value Y at which X percent of the data has a value below Y.
+We interpret this as the area below a value on a probability distribution.

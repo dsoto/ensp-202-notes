@@ -39,8 +39,13 @@ This is the difference in the mean between an original distribution and the dist
 
 The more observations you have in your sample, the higher the probability that the mean of your observation will be close to the population mean.
 
-## Descriptive Statistics
+## Sample Mean
 
-Techniques used to characterize the measurements of a collection.
+This is the mean of a sample of data we take from a larger population.
 
-Mean, median, and standard deviation fall in this category.
+We are often concerned with how well this sample mean predicts the mean of the overall population.
+
+## Standard Error
+
+If you repeatedly take sample means, the standard error is the amount of spread these sample means have.
+This amount of spread goes down as you include more data in each of the repeated samples.
