@@ -1,3 +1,5 @@
+note: migrated 18 Mar 2021
+
 # Exponential Computations
 
 

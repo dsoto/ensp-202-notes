@@ -1,5 +1,7 @@
 # Exponential
 
+note: migrated 18 Mar 2021
+
 The word exponential makes this concept sound unnecessarily difficult.
 
 A simple definition is that exponential models arise when the change in a quantity is proportional to the amount of the quantity.
